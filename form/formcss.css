@@ -1,0 +1,45 @@
+form {
+    background-color: rgb(245, 245, 245);
+    text-align: center;
+    margin: auto;
+    padding: 10px;width: 600px; height: 600px;
+    border: solid;
+   margin-top: 10px;
+   margin-bottom: 10px;
+    background-image: url(https://media.istockphoto.com/photos/white-big-cumulus-clouds-picture-id1191343717?k=20&m=1191343717&s=170667a&w=0&h=szNXd6QMhkDjnAoAt7oeBrivXOTv1fUa-lkdFXXdt6w=); 
+   
+}
+
+div {
+    
+    
+}
+
+.label {text-align: left;
+    border: solid;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+   input {border: solid;
+
+   }
+   a {
+    color: red;
+    text-align: center;
+   }
+
+
+
+.h12 {
+    color: black;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+.h10 {
+    
+background-color: green;
+}
+body {
+    background-image: url(https://i.pinimg.com/736x/d1/b0/83/d1b083ac9d9344250908137e08d6eb20.jpg);
+}
